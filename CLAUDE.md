@@ -6,7 +6,7 @@ NestJS 12 + TypeScript backend for Warung Hidup. It is the future `apps/api` fro
 
 ## Commands (pnpm)
 
-- `pnpm start:dev`: run with watch (port 3000, or `PORT`)
+- `pnpm start:dev`: run with watch (port 3001, or `PORT`)
 - `pnpm build` / `pnpm start:prod`
 - `pnpm lint`: oxlint with type-aware rules; `no-floating-promises` is an error
 - `pnpm format`: prettier
